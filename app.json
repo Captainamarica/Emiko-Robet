@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "Emiko Robet S-L",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
+   "logo":    "https://telegra.ph/file/ed69b0a407e87046e0301.jpg",  
    "repository": "https://github.com/Captainamarica/Emiko-Robet",
    "addons": [
           {
