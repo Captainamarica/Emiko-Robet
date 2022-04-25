@@ -36,6 +36,8 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 - WilliamButcherBot
 ```
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Captainamarica/Emiko-Robet)
+
 ### Support
 <p>
 <a href="https://t.me/excrybaby"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
