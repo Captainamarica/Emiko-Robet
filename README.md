@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+  <img src="https://telegra.ph/file/86b95880cb911d1f2eef0.jpg">
 </p>
 
 <h4><p align="center"> EMIKO ROBOT </p></h4>
@@ -35,8 +35,13 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 - DaisyX 
 - WilliamButcherBot
 ```
+### DEPLOY TO HEROKU
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Captainamarica/Emiko-Robet)
+
+### RUN ON REPL
+-get Telethon String Session 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@MasterHacker2/Session-Generator)
 
 ### Support
 <p>
@@ -47,8 +52,5 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ## Credit 
 
-• [Sena](https://github.com/kennedy-ex)
+• [™Ꭰᥲʀκ͢☢Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͟͞ᴛ]™](https://github.com/Captainamrica)
 
-• [Arya](https://github.com/aryazakaria01)
-
-• [Kyy](https://github.com/zxcskyy)
